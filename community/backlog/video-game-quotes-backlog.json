@@ -671,7 +671,7 @@
     "character": "Recurring command voice",
     "id": 67,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "行くぞ、みんな！",
@@ -701,7 +701,7 @@
     "character": "Hero / party lines",
     "id": 70,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "ここからが本番だ",
@@ -711,7 +711,7 @@
     "character": "Guild Handler lines",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -731,7 +731,7 @@
     "character": "Class Zero",
     "id": 73,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -741,7 +741,7 @@
     "character": "Ichiban Kasuga",
     "id": 74,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -781,7 +781,7 @@
     "character": "Revali",
     "id": 78,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -790,7 +790,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 79,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
