@@ -577,7 +577,9 @@
     "character": "Revali",
     "id": 58,
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "23f2003151",
+    "completedPR": 11060
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
